@@ -22,7 +22,7 @@
         <li><a href="#proses-instalasi">Proses Instalasi</a></li>
       </ul>
     </li>
-    <li><a href="#Cara Menggunakan Keila-Newsletter">Cara Menggunakan Keila-Newsletter</a>
+    <li><a href="#cara-menggunakan-keila-newsletter">Cara Menggunakan Keila-Newsletter</a>
   </ol>
 </details>
 
