@@ -44,7 +44,7 @@ Untuk newsletter yang lebih kecil, kita dapat menggunakan kotak masuk email kita
 5.  Jika sudah berhasil mengaktifkan 2-Step Verification, akan muncul App passwords pada bagian bawah
 6.  Jika App passwords tidak muncul, bisa dicari menggunakan pencarian menu yang disediakan
 7.  Jika masih tidak muncul, pastikan kembali agar menggunakan email IPB dan sudah mengaktifkan 2-Step Verification
-8.  Buka menu App passwords dan ketikkan App name
+8.  Buka menu App passwords dan isi App name
 9.  Tekan Create dan salin kode yang muncul
 
     Kode yang muncul akan diletakkan di `MAILER_SMTP_HOST` pada file konfigurasi `docker-compose.yml`. Aplikasi ini memerlukan email untuk mengirim kode verifikasi ke user.
