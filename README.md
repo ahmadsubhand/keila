@@ -18,7 +18,7 @@
     <li><a href="#instalasi">Instalasi</a>
       <ul>
         <li><a href="#siapkan-akun-untuk-smtp">Siapkan Akun untuk SMTP</a></li>
-        <li><a href="siapkan-akun-untuk-captcha-opsional">Siapkan Akun untuk Captcha</a></li>
+        <li><a href="#siapkan-akun-untuk-captcha-opsional">Siapkan Akun untuk Captcha</a></li>
         <li><a href="#proses-instalasi">Proses Instalasi</a></li>
       </ul>
     </li>
