@@ -56,7 +56,7 @@ Untuk newsletter yang lebih kecil, kita dapat menggunakan kotak masuk email kita
 4.  Kemudian selesaikan menjawab pertanyaan yang muncul sampai masuk pada bagian proses pembuatan akun
 5.  Setelah proses pembuatan akun selesai akan diarahkan pada halaman welcome
 6.  <span id="sitekey">Salin kode Sitekey yang muncul</span>
-7.  <span id="secret">Pada point Secret, generata kode dan salin kode yang muncul</span>
+7.  <span id="secret">Pada point Secret, generate kode dan salin kode yang muncul</span>
 
     Kode yang muncul akan diletakkan di `CAPTCHA_SITE_KEY` dan `CAPTCHA_SECRET_KEY` pada file konfigurasi `docker-compose.yml`. Captcha akan digunakan dalam proses registrasi user.
 
