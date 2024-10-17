@@ -161,12 +161,17 @@ Untuk newsletter yang lebih kecil, kita dapat menggunakan kotak masuk email kita
     $ docker-compose up -d
     ```
 
-8.  Jika terdapat masalah, cek log untuk mengetahui letak error
+8.  Pastikan status dari image `keila` dan `keila_db` sudah berjalan dengan benar
+    ```
+    $ docker ps
+    ```
+
+9.  Jika terdapat masalah, cek log untuk mengetahui letak error
     ```
     $ docker-compose logs -f
     ```
 
-9.  Kunjungi alamat IP web server untuk menjalankan aplikasi
+10.  Kunjungi alamat IP web server untuk menjalankan aplikasi
 
 
 ## Cara Menggunakan Keila-Newsletter
