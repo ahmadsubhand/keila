@@ -166,7 +166,7 @@ Untuk newsletter yang lebih kecil, kita dapat menggunakan kotak masuk email kita
     $ docker-compose logs -f
     ```
 
-9.  Kunjungi alamat IP web server untuk meneruskan instalasi
+9.  Kunjungi alamat IP web server untuk menjalankan aplikasi
 
 
 ## Cara Menggunakan Keila-Newsletter
